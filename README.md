@@ -1,4 +1,4 @@
-# Kaana Services
+# Kaana Auth
 
 The essential platform for managing the Kaana Ecosystem.
 
@@ -8,7 +8,6 @@ The essential platform for managing the Kaana Ecosystem.
 - 🆕 Sign up 
 - 🔒 Password and account recovery
 - 🔧 Account settings 
-- 💬 And more essential services for all Kaana apps 💬
 
 ## 💻 Requirements
 
